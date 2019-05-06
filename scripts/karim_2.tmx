@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="2018.12.22" orientation="orthogonal" renderorder="right-down" width="7" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="inside.tsx"/>
+ <layer id="2" name="Tile Layer 1" width="7" height="10">
+  <data encoding="csv">
+8077,8077,8077,8077,6348,6349,6350,
+7692,7693,7692,7693,6540,6541,6542,
+7884,7885,7884,7885,6154,6154,6154,
+6154,6154,6154,6154,6154,6154,8272,
+8462,6154,6154,6154,6154,6154,6154,
+8463,9801,9802,9803,6154,6154,6154,
+6154,9993,9994,9995,9225,9226,9227,
+6154,10185,10186,10187,9417,9418,9419,
+7696,7696,6154,6154,9609,9610,9611,
+7888,7888,6154,6154,6154,6154,6154
+</data>
+ </layer>
+</map>
